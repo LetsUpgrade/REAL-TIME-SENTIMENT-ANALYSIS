@@ -2,14 +2,14 @@
 
 **Project ID: 17**
 >## ✍&nbsp; PROJECT DESCRIPTION
-It refers to the use of natural language, processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. It can be widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine.
+It refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. It can be widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine.
 
 
 
 >## 📂&nbsp; RELEVANT TECHNOLOGY
 Any web technology can be used but I am thinking about using Python ecosystem.
 
-* Machiene Learning
+* Machine Learning
 * Python
 
 >## 💻&nbsp; GETTING STARTED
