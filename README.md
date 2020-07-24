@@ -9,8 +9,9 @@ It refers to the use of natural language processing, text analysis, computationa
 >## 📂&nbsp; RELEVANT TECHNOLOGY
 Any web technology can be used but I am thinking about using Python ecosystem.
 
-* Machine Learning
 * Python
+* Machine Learning
+* Natural Language Processing
 
 >## 💻&nbsp; GETTING STARTED
 
