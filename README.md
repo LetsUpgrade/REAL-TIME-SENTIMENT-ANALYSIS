@@ -2,6 +2,8 @@
 
 <img src="Image/logo.png" width="1000">
 
+[Image Source](https://letsupgrade.in/)
+
 **Project ID: 17**
 
 **Problem Statement:**
@@ -10,12 +12,20 @@ This project is on sentiment analysis using Natural Language Processing in which
 
 In this project, we worked on applying **Sentiment Analysis on Various Datasets for analyzing Domestic Violence going on at households during lockdown .**
 
+
 <img src="Image/domestic-violence.jpeg" width="800">
+
+[Image Source](https://omdena.com/blog/domestic-violence-covid-19/)
+
 
 >## ✍&nbsp; PROJECT DESCRIPTION
 It refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. It can be widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine.
 
+
 <img src="Image/Analysis_Chart.png" width="1000">
+
+[Image Source](https://omdena.com/blog/domestic-violence-covid-19/)
+
 
 ## 1. Web Scrapping - 
 
