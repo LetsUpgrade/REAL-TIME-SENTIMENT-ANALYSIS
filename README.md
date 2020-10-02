@@ -6,7 +6,7 @@
 
 **Project ID: 17**
 
-**Problem Statement:**
+# Problem Statement:
 
 This project is on sentiment analysis using Natural Language Processing in which people's sentiments are recognised. It determines positive or negative according to the sentiment sentence given. 
 
