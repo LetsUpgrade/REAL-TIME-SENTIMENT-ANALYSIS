@@ -31,17 +31,25 @@ It refers to the use of natural language processing, text analysis, computationa
 
 Done the web scrapping using beautiful soup which is a Python library for pulling data out of HTML and XML files.
 
-## 2. Preprocessing - 
+## 2. Data Preprocessing - 
 
-This part includes quite a few steps :- A.Contractions to Expansions <br> B. Tokenisation - Seperating a text into smaller units <br> C. Removing Stopwords <br> D. Lemmetisation - Process of grouping together the different inflected forms of a word so they can be analysed as a single item 
+This part includes quite a few steps :- 
+
+**A.Contractions to Expansions**
+
+**B. Tokenisation - Seperating a text into smaller units** 
+
+**C. Removing Stopwords**
+
+**D. Lemmetisation - Process of grouping together the different inflected forms of a word so they can be analysed as a single item** 
 
 ## 3. Model Building - 
 
 Model building is done using the naive baeyes algorithm with training on around 20k datapoints and an accuracy of more than 85%.
 
-## 4. Deployment - Deployment is done on local host using streamlit 
+## 4. Deployment - Deployment is done on local host using Streamlit 
 
-The file is run on the command prompt using streamlit run filename.py . Streamlit is a effective way to create an Web App on Local Host. 
+The file has been run on the command prompt using streamlit - run filename.py . Streamlit is a effective way to create an Web App on Local Host. 
 
 >## 📂&nbsp; RELEVANT TECHNOLOGY
 Any web technology can be used but I am thinking about using Python ecosystem.
