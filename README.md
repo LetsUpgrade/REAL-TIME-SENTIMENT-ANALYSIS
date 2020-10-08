@@ -36,7 +36,7 @@ Done the web scrapping using beautiful soup which is a Python library for pullin
 
 This part includes quite a few steps :- 
 
-**A.Contractions to Expansions**
+**A. Contractions to Expansions**
 
 **B. Tokenisation - Seperating a text into smaller units** 
 
